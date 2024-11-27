@@ -7,7 +7,7 @@
             "ClassLocation": "Baltimore, MD",
             "Classtypename": "Pilates Studio",
             "ClassIntensity": "Low",
-            "ClassImage": "Pilates.jpeg",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/Pilates.jpeg",
             "ClassWebSite": "https://classpass.com/studios/pilates-house-baltimore",
             "Mood": "Core power time 💪",
             "Rating": "4.8"
@@ -19,7 +19,7 @@
             "ClassLocation": "Charlottesville, VA",
             "Classtypename": "Cycle Studio",
             "ClassIntensity": "High",
-            "ClassImage": "ZoomCville.jpeg",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/ZoomCville.jpeg",
             "ClassWebSite": "https://classpass.com/studios/zoom-cville-charlottesville",
             "Mood": "Ready to crush it! 🔥",
             "Rating": "4.2"
@@ -31,7 +31,7 @@
             "ClassLocation": "Richmond, VA",
             "Classtypename": "Revolutionary fitness",
             "ClassIntensity": "High",
-            "ClassImage": "F45Training.jpeg",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/F45Training.jpeg",
             "ClassWebSite": "https://classpass.com/studios/f45-training--fan-district-va-richmond",
             "Mood": "Time to sweat it out! 💦",
             "Rating": "3.8"
@@ -43,7 +43,7 @@
             "ClassLocation": "Richmond, VA",
             "Classtypename": "Hot Power yoga studio",
             "ClassIntensity": "Medium",
-            "ClassImage": "HumbleHavenYoga.jpeg",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/HumbleHavenYoga.jpeg",
             "ClassWebSite": "https://classpass.com/studios/humble-haven-yoga-glenside-richmond?reviewsPage=6",
             "Mood": "Balanced workout 🧘‍♀️",
             "Rating": "4.5"
@@ -55,7 +55,7 @@
             "ClassLocation": "Richmond, VA",
             "Classtypename": "Cycle Studio",
             "ClassIntensity": "High",
-            "ClassImage": "cycleClass.jpeg",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/cycleClass.jpeg",
             "ClassWebSite": "https://classpass.com/studios/hour-cycle-studio-richmond?reviewsPage=9",
             "Mood": "High energy vibes ⚡️",
             "Rating": "4.2"
@@ -67,7 +67,7 @@
             "ClassLocation": "Baltimore, MD",
             "Classtypename": "XPF Studio",
             "ClassIntensity": "High",
-            "ClassImage": "XPFStudio.jpeg",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/XPFStudio.jpeg",
             "ClassWebSite": "https://classpass.com/studios/xpf-studio-baltimore",
             "Mood": "Adrenaline-fueled intensity 💥",
             "Rating": "3.3"
@@ -79,7 +79,7 @@
             "ClassLocation": "Baltimore, MD",
             "Classtypename": "fully-equipped gym",
             "ClassIntensity": "Low",
-            "ClassImage": "ROAM.jpeg",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/ROAM.jpeg",
             "ClassWebSite": "https://classpass.com/studios/roam-fitness-baltimore",
             "Mood": "Electrifying atmosphere 🔋",
             "Rating": "3.9"
