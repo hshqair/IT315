@@ -75,7 +75,7 @@
         {
             "ClassName": "ROAM Fitness",
             "ClassDescription": "XPF is an artful diagnostic conditioning system that elevates your physical and mental performance.",
-            "ClassLength": "60 to 120 minutes",
+            "ClassLength": "60 or 120 minutes",
             "ClassLocation": "Baltimore, MD",
             "Classtypename": "fully-equipped gym",
             "ClassIntensity": "Low",
@@ -83,8 +83,31 @@
             "ClassWebSite": "https://classpass.com/studios/roam-fitness-baltimore",
             "Mood": "Electrifying atmosphere 🔋",
             "Rating": "3.9"
+        },
+        {
+            "ClassName": "Colonial Fitness",
+            "ClassDescription": "Colonial Fit RVA is a semi-private training facility with no membership fees, and no contracts. They offer 5 Star Personal Training, Strength Coaching, Nutrition, and fitness classes.",
+            "ClassLength": "60 or 120 minutes",
+            "ClassLocation": "Richmond,Va",
+            "Classtypename": "semi-private training",
+            "ClassIntensity": "Medium",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/Colonial.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/colonial-fitness-richmond",
+            "Mood": "Ready to crush my goals! 💪",
+            "Rating": "2.9"
+        },
+        {
+            "ClassName": "E60 Fitness",
+            "ClassDescription": "E60 Fitness provides proprietary fitness classes that focus on the development of lean muscle through circuit strength training, with the occasional cardio mixed in to keep your pulse going.",
+            "ClassLength": "30 or 90 minutes",
+            "ClassLocation": "Alexandria,Va",
+            "Classtypename": "Strength Training",
+            "ClassIntensity": "High",
+            "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/E60.jpeg",
+            "ClassWebSite": "https://classpass.com/studios/e60-fitness-alexandria",
+            "Mood": "Beast mode: Activated! 💥",
+            "Rating": "4.6"
         }
-        
         
     ],
    
