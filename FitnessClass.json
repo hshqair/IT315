@@ -10,7 +10,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/Pilates.jpeg",
             "ClassWebSite": "https://classpass.com/studios/pilates-house-baltimore",
             "Mood": "Core power time 💪",
-            "Rating": "4.8"
+            "Rating": "4.8",
             "ClassMapSite": "https://www.google.com/maps/place/1809+Thames+St,+Baltimore,+MD+21231/@39.2818219,-76.5933244,17z/data=!3m1!4b1!4m6!3m5!1s0x89c803813cd5795d:0x368827b9b89c5f32!8m2!3d39.2818219!4d-76.5907495!16s%2Fg%2F11dztqk8q5?entry=ttu&g_ep=EgoyMDI0MTIwMi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
@@ -23,7 +23,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/ZoomCville.jpeg",
             "ClassWebSite": "https://classpass.com/studios/zoom-cville-charlottesville",
             "Mood": "Ready to crush it! 🔥",
-            "Rating": "4.2"
+            "Rating": "4.2",
             "ClassMapSite": "https://www.google.com/maps/?q=1929%20Arlington%20Blvd,%20Charlottesville,%20VA,%2022903%20(38.0486619,-78.5048716)"
         },
         {
@@ -36,7 +36,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/F45Training.jpeg",
             "ClassWebSite": "https://classpass.com/studios/f45-training--fan-district-va-richmond",
             "Mood": "Time to sweat it out! 💦",
-            "Rating": "3.8"
+            "Rating": "3.8",
             "ClassMapSite": "https://www.google.com/maps/?q=2035%20West%20Broad%20Street,%20Richmond,%20VA,%2023220%20(37.557295,-77.4620822)"
         },
         {
@@ -49,7 +49,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/HumbleHavenYoga.jpeg",
             "ClassWebSite": "https://classpass.com/studios/humble-haven-yoga-glenside-richmond?reviewsPage=6",
             "Mood": "Balanced workout 🧘‍♀️",
-            "Rating": "4.5"
+            "Rating": "4.5",
             "ClassMapSite": "https://www.google.com/maps/?q=6980%20Forest%20Avenue,%20Richmond,%20VA,%2023230%20(37.6024954,-77.5243043)"
         },
         {
@@ -62,7 +62,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/cycleClass.jpeg",
             "ClassWebSite": "https://classpass.com/studios/hour-cycle-studio-richmond?reviewsPage=9",
             "Mood": "High energy vibes ⚡️",
-            "Rating": "4.2"
+            "Rating": "4.2",
             "ClassMapSite": "https://www.google.com/maps/place/209+N+3rd+St,+Richmond,+VA+23219/@37.543452,-77.4421159,17z/data=!3m1!4b1!4m6!3m5!1s0x89b1113c772a3d13:0x8a7b19ee83db069f!8m2!3d37.543452!4d-77.439541!16s%2Fg%2F11b8vfhgp7?entry=ttu&g_ep=EgoyMDI0MTIwMi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
@@ -75,7 +75,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/XPFStudio.jpeg",
             "ClassWebSite": "https://classpass.com/studios/xpf-studio-baltimore",
             "Mood": "Adrenaline-fueled intensity 💥",
-            "Rating": "3.3"
+            "Rating": "3.3",
             "ClassMapSite": "https://www.google.com/maps/?q=1727%20Eastern%20Ave,%20Baltimore,%20MD,%2021231%20(39.285456,-76.59208699999999)"
         },
         {
@@ -88,7 +88,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/ROAM.jpeg",
             "ClassWebSite": "https://classpass.com/studios/roam-fitness-baltimore",
             "Mood": "Electrifying atmosphere 🔋",
-            "Rating": "3.9"
+            "Rating": "3.9",
             "ClassMapSite": "https://www.google.com/maps/?q=BWI%20Airport,%207050%20Friendship%20Rd,%20Terminal%20D/E%20Secuirty%20Checkpoint,%20Baltimore,%20MD,%2021240%20(39.1775921,-76.6683889)"
         },
         {
@@ -101,7 +101,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/Colonial.jpeg",
             "ClassWebSite": "https://classpass.com/studios/colonial-fitness-richmond",
             "Mood": "Ready to crush my goals! 💪",
-            "Rating": "2.9"
+            "Rating": "2.9",
             "ClassMapSite": "https://www.google.com/maps/?q=1634%20Ownby%20Ln.%20,%20Richmond,%20VA,%2023150%20(37.5638234,-77.4588254)"
         },
         {
@@ -114,7 +114,7 @@
             "ClassImage": "https://raw.githubusercontent.com/hshqair/IT315/refs/heads/main/E60.jpeg",
             "ClassWebSite": "https://classpass.com/studios/e60-fitness-alexandria",
             "Mood": "Beast mode: Activated! 💥",
-            "Rating": "4.6"
+            "Rating": "4.6",
             "ClassMapSite": "https://www.google.com/maps/?q=3464%20Berkeley%20Street,%20Alexandria,%20VA,%2022302%20(38.8410307,-77.1076181)"
         }
         
